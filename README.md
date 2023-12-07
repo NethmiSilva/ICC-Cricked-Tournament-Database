@@ -1,4 +1,4 @@
-# T20 World Cup Database Project 
+# T20 World Cup Database  
 
 ## Introduction
 This database project focuses on International Cricket T20 World Cup Tournaments held from 2007 to 2021. The goal is to design and implement a relational database that captures key information about the semi-final and final matches of each series. The dataset used for this project was obtained from Kaggle.
